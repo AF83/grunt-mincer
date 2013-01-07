@@ -36,6 +36,6 @@
     "gruntplugin", "mincer"
   ],
   "dependencies": {
-    "mincer": "~0.3"
+    "mincer": "latest"
   }
 }
